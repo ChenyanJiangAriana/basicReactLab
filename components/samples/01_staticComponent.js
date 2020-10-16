@@ -5,10 +5,9 @@ const Demo = () => {
     <div>
       <h1>Dynamic Languages</h1>
       <ul>
-        <li>Python</li>
-        <li>Javascript</li>
-        <li>Ruby</li>
-        <li>PHP</li>
+        <li>Erlang</li>
+        <li>Clojure</li>
+       
       </ul>
     </div>
   );
