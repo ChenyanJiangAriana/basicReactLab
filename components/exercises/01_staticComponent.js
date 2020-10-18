@@ -15,12 +15,12 @@ const Demo = () => {
         </thead>
        <tbody>
          <tr>
-            <td>DevOps</td>
+            <td>Web Application Development</td>
             <td>2</td>
             <td>2</td>
         </tr>
         <tr>
-            <td>Enterprise Web Dev</td>
+            <td>English</td>
             <td>2</td>
             <td>2</td>
         </tr>

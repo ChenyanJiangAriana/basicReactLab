@@ -2,20 +2,19 @@ import React from "react";
 import "../../node_modules/bootstrap/dist/css/bootstrap.css";
 
 const Demo = () => {
-     const course = "Msc Computing - Modules Table.";
-     const modules =[
-       {
-         name: "Devops",
-         noLectures:2,
-         noPracticals:2
-       },
-       {
-         name:"Enterprise Web Dev",
-         noLectures:2,
-         noPracticals:2
-       }
-     ];
-
+  const course = "MSc Computing - Modules table.";
+  const modules = [
+    {
+      name: "Web Application Development",
+      noLectures: 2,
+      noPracticals: 2
+    },
+    {
+      name: "English",
+      noLectures: 2,
+      noPracticals: 2
+    }
+  ];
 
 
   return (

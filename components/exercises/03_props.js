@@ -7,13 +7,13 @@ const Demo = (props) => {
   const course = "MSc Computing - Modules table.";
   const modules = [
     {
-      name: "DevOps",
+      name: "Web Application Development",
       noLectures: 2,
-      noPracticals: 3
+      noPracticals: 2
     },
     {
-      name: "Enterprise Web Dev",
-      noLectures: 3,
+      name: "English",
+      noLectures: 2,
       noPracticals: 2
     }
   ];
